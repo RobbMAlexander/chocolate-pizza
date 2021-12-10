@@ -1,0 +1,71 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+  text-indent: 30px;
+  color: rgb(104, 101, 101);
+  width: 50%;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+header {
+
+}
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+header ul {
+  margin-left: 90px;
+}
+
+header li {
+  display: inline-block;
+  line-height: 100px;
+}
+
+#rss {
+  margin-left: 10px;
+}
+
+#choco-pizza {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#list-bg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+article {
+  list-style-type: square;
+  list-style-position: outside;
+}
+
+#vanessa {
+  width: 71px;
+  height: 68px;
+}
+
+#author {
+  margin-left: 25%;
+}
+
+#recipe-button {
+  width: 55px;
+  background-color: darkorange;
+  padding: 15px;
+}
